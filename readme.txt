@@ -1,4 +1,4 @@
-I choose prosperLoanData set.
+This project is a part of Exploratory Data Analysis course. Here, we have used one of the curated data sets, provided by Udacity. It is the prosper loan data set, that contains information about loan listings and related variables including borrower as well as lender information. It contains variables related to Borrower such as credit rating, prosper rating etc. Moreover, the dataset also has lender information.
 
 Conclusion:
 
